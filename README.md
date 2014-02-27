@@ -1,4 +1,6 @@
 homebrew-localmed
 =================
 
-A homebrew Tap for formulas written by localmed
+folked from [localmed]
+
+[localmed]:https://github.com/localmed/homebrew-tap
