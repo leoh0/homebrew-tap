@@ -2,8 +2,8 @@ require 'formula'
 
 class GitJiraFlow < Formula
   homepage 'https://github.com/leoh0/git-jira-flow'
-  url 'https://github.com/leoh0/git-jira-flow.git', :tag => 'v0.3.6'
-  version '0.3.6'
+  url 'https://github.com/leoh0/git-jira-flow.git', :tag => 'v0.3.7'
+  version '0.3.7'
 
   head 'https://github.com/leoh0/git-jira-flow.git', :branch => 'master'
 
