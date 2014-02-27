@@ -8,7 +8,7 @@ class JiraCli < Formula
 
   def script; <<-EOS.undent
     #!/bin/bash
-    java -jar #{libexec}/jira-cli-3.1.0.jar "$@"
+    java -Dfile.encoding=UTF8 -jar #{libexec}/jira-cli-3.1.0.jar "$@"
     EOS
   end
 
